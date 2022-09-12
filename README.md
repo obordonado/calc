@@ -1,5 +1,6 @@
 # Calculadora básica 
 
+<pre>
 <center><img src="/img/ubuntu-logo.jpg" style="width:150px;"/><img src="/img/html5.png" style="width:100px;"/>   <img src="/img/javascript.png" style="width:90px;"/>   <img src="/img/css.png" style="width:90px;"/>
 </center>
 </pre>
